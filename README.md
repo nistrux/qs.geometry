@@ -1,6 +1,8 @@
 # qs.geometry
 
 [![.NET](https://github.com/nistrux/qs.geometry/actions/workflows/dotnet.yml/badge.svg)](https://github.com/nistrux/qs.geometry/actions/workflows/dotnet.yml)
+[![codecov](https://codecov.io/gh/nistrux/qs.geometry/branch/master/graph/badge.svg)](https://codecov.io/gh/nistrux/qs.geometry)
+
 
 A small .NET library to calculate areas of geometric shapes (circle, triangle) and detect whether a triangle is right-angled.
 
